@@ -13,3 +13,13 @@ https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubuserco
 
 ## Interactive Dashboard 
 https://github.com/shreyabhatt025/Data--Analysis-Dashboard/blob/main/Screenshot%202025-02-26%20172330.png
+
+## Project Insight
+
+Project Name: 1-Year Sales Analysis Dashboard (2022)
+Tool Used: Power BI
+Key Metrics: Total revenue, boxes shipped, unique customers, sales by country, and salesperson performance
+Features: Interactive filters, monthly sales trends, and shipping analysis
+
+# Conclusion
+This 1-Year Sales Analysis Dashboard, built with Power BI, offers a comprehensive and actionable view of sales performance. By leveraging revenue trends, shipping insights, and salesperson metrics, businesses can formulate data-driven strategies to optimize sales growth. Interactive visualizations and dynamic filters facilitate immersive data exploration, rendering this dashboard an indispensable asset for sales analytics.
